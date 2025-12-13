@@ -57,3 +57,53 @@ python3 gyfe.py breadth --notp --year 3 --session 2023-2024 --semester AUTUMN
 - See how your timetable will look like with the electives you choose (OR somehow merge this with [what-slot](https://github.com/met-kgp/what-slot))
 - Make it a web app for ease of use
 
+
+
+## Contact
+
+<p>
+📫 Metakgp -
+<a href="https://slack.metakgp.org">
+  <img align="center" alt="Metakgp's slack invite" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/slack.svg" />
+</a>
+<a href="mailto:metakgp@gmail.com">
+  <img align="center" alt="Metakgp's email " width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" />
+</a>
+<a href="https://www.facebook.com/metakgp">
+  <img align="center" alt="metakgp's Facebook" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg" />
+</a>
+<a href="https://www.linkedin.com/company/metakgp-org/">
+  <img align="center" alt="metakgp's LinkedIn" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
+</a>
+<a href="https://twitter.com/metakgp">
+  <img align="center" alt="metakgp's Twitter " width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" />
+</a>
+<a href="https://www.instagram.com/metakgp_/">
+  <img align="center" alt="metakgp's Instagram" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" />
+</a>
+</p>
+
+### Maintainer(s)
+
+The currently active maintainer(s) of this project.
+See https://wiki.metakgp.org/w/Metakgp:Project_Maintainer.
+
+<!-- UPDATE -->
+- [Prem Agarwal](https://github.com/premagarwals)
+
+### Past Maintainer(s)
+
+Previous maintainer(s) of this project.
+See https://wiki.metakgp.org/w/Metakgp:Project_Maintainer.
+
+<!-- UPDATE -->
+- [NAME](https://github.com/GITHUB_USERNAME)
+
+### Creator(s)
+
+Honoring the original creator(s) and ideator(s) of this project.
+
+<!-- UPDATE -->
+- [Ashwin Prasanth](https://github.com/ashwinpra)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
